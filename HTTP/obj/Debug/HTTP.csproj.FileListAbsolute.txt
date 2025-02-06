@@ -1,0 +1,10 @@
+E:\Estudos CSHARP\Projetos\InteragindoWeb\HTTP\HTTP\bin\Debug\HTTP.exe.config
+E:\Estudos CSHARP\Projetos\InteragindoWeb\HTTP\HTTP\bin\Debug\HTTP.exe
+E:\Estudos CSHARP\Projetos\InteragindoWeb\HTTP\HTTP\bin\Debug\HTTP.pdb
+E:\Estudos CSHARP\Projetos\InteragindoWeb\HTTP\HTTP\obj\Debug\HTTP.csproj.AssemblyReference.cache
+E:\Estudos CSHARP\Projetos\InteragindoWeb\HTTP\HTTP\obj\Debug\HTTP.csproj.CoreCompileInputs.cache
+E:\Estudos CSHARP\Projetos\InteragindoWeb\HTTP\HTTP\obj\Debug\HTTP.exe
+E:\Estudos CSHARP\Projetos\InteragindoWeb\HTTP\HTTP\obj\Debug\HTTP.pdb
+E:\Estudos CSHARP\Projetos\InteragindoWeb\HTTP\HTTP\bin\Debug\Newtonsoft.Json.dll
+E:\Estudos CSHARP\Projetos\InteragindoWeb\HTTP\HTTP\bin\Debug\Newtonsoft.Json.xml
+E:\Estudos CSHARP\Projetos\InteragindoWeb\HTTP\HTTP\obj\Debug\HTTP.csproj.Up2Date
